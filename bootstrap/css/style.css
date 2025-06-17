@@ -1,0 +1,34 @@
+
+body {
+      background-color: #f8f9fa;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      flex-direction: column;
+    }
+    .login-box {
+      width: 100%;
+      max-width: 350px;
+      padding: 30px;
+      background: white;
+      border-radius: 8px;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+      text-align: center;
+    }
+    .login-box h2 {
+      font-weight: bold;
+      margin-bottom: 20px;
+    }
+    .scaler-logo {
+      margin-top: 20px;
+      font-family: cursive;
+      color: #ff2d75;
+    }
+    .scaler-logo span {
+      font-weight: 400;
+      color: black;
+    }
+    
+
+    

@@ -1,0 +1,12 @@
+header.banner{
+    padding-top: 10.5rem;
+    padding-bottom:6rem ;
+    text-align: center;
+    color: #fff;
+    background-image: url("../img/header-bg.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+
+}
